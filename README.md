@@ -80,5 +80,4 @@ Coming Soon...
 
 Kairat Tulegenov
 
-GitHub:
-GitHub: https://github.com/Qairat1978
+ https://github.com/Qairat1978
