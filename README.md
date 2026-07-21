@@ -81,4 +81,4 @@ Coming Soon...
 Kairat Tulegenov
 
 GitHub:
-https://github.com/YOUR_USERNAME
+GitHub: https://github.com/Qairat1978
